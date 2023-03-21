@@ -62,4 +62,3 @@ and
 ## Contributing
 
 Creditos: [Lino Mac Kay](https://github.com/LinoMacKay) y [Jean Aguirre](https://github.com/jeanmarko2703)
-
