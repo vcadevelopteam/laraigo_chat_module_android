@@ -60,6 +60,10 @@ binding!!.btnChatButton.setOnClickListener {
 and
 
 ![ff](https://media.discordapp.net/attachments/593247279196930049/1087752300124196954/image.png)
+## Tutorial Video
+
+[Tutorial Español](https://youtu.be/W0i8T8e90kU) y [English Tutorial](https://youtu.be/7wRxw_cOvB8)
+
 ## Contributing
 
 Creditos: [Lino Mac Kay](https://github.com/LinoMacKay) y [Jean Aguirre](https://github.com/jeanmarko2703)
