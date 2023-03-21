@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.advoques.document_file_save_plus",
+    "module": "document_file_save_plus_debug",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "document_file_save_plus_debug-1.0.aar",
+          "url": "document_file_save_plus_debug-1.0.aar",
+          "size": 8282,
+          "sha512": "2ca74f7ead5654c22f2e45ea96e8e741eea3388d71b7ec0ee62643c4d93c3cb7a50f2cebf27b31edd40cc1694915d9fb74563bcf99ccaee7a1c798aae1e61437",
+          "sha256": "e74613f855ed3f346578f5ad36f11442f575ee6f1515a2b2055889188b371b21",
+          "sha1": "6d9665b896ca29bffc6220ac052badf8a8aa2d63",
+          "md5": "1cfbbfd3bdcc2929802fbb55aac5ffbb"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "document_file_save_plus_debug-1.0.aar",
+          "url": "document_file_save_plus_debug-1.0.aar",
+          "size": 8282,
+          "sha512": "2ca74f7ead5654c22f2e45ea96e8e741eea3388d71b7ec0ee62643c4d93c3cb7a50f2cebf27b31edd40cc1694915d9fb74563bcf99ccaee7a1c798aae1e61437",
+          "sha256": "e74613f855ed3f346578f5ad36f11442f575ee6f1515a2b2055889188b371b21",
+          "sha1": "6d9665b896ca29bffc6220ac052badf8a8aa2d63",
+          "md5": "1cfbbfd3bdcc2929802fbb55aac5ffbb"
+        }
+      ]
+    }
+  ]
+}

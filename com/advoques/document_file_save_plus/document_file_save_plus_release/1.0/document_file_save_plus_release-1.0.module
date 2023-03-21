@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.advoques.document_file_save_plus",
+    "module": "document_file_save_plus_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "document_file_save_plus_release-1.0.aar",
+          "url": "document_file_save_plus_release-1.0.aar",
+          "size": 7914,
+          "sha512": "9cad70953ed878ba178ed43078bb9f1686491330bfa16c65806a6e07380f6467d304fcde170ce75e6e3a6190734f717dd548ebfc43b88968e8fc2688ad02217f",
+          "sha256": "90129b7a8f8667af129d0e21daf564be1b5f166d8c6e84f880e0ebfd007ef0bd",
+          "sha1": "abae51f6ea3fc192dedf4a00bdd67068d1657e4a",
+          "md5": "d47ff1402ca46d0de89f57009c6a14ca"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "document_file_save_plus_release-1.0.aar",
+          "url": "document_file_save_plus_release-1.0.aar",
+          "size": 7914,
+          "sha512": "9cad70953ed878ba178ed43078bb9f1686491330bfa16c65806a6e07380f6467d304fcde170ce75e6e3a6190734f717dd548ebfc43b88968e8fc2688ad02217f",
+          "sha256": "90129b7a8f8667af129d0e21daf564be1b5f166d8c6e84f880e0ebfd007ef0bd",
+          "sha1": "abae51f6ea3fc192dedf4a00bdd67068d1657e4a",
+          "md5": "d47ff1402ca46d0de89f57009c6a14ca"
+        }
+      ]
+    }
+  ]
+}

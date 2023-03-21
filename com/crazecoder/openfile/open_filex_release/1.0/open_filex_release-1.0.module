@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.crazecoder.openfile",
+    "module": "open_filex_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "open_filex_release-1.0.aar",
+          "url": "open_filex_release-1.0.aar",
+          "size": 13630,
+          "sha512": "bd4bfbf6648f80096ca994f04ecd0b2d39234d69f995d50a4754d87f7b62d4ef586882a5fc91e05ad6e234a8b5033b22809012822e9d961268477cd99aa742a6",
+          "sha256": "8bc9ec4082f24c4cf424716ff10824d7761e75a3bba36b4d90ca11e64b49b47e",
+          "sha1": "41cf7d2bdb1265b8225a6098d80acae4911e8269",
+          "md5": "6e55385e1d7fc01b177fd8f0682b2e1f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "open_filex_release-1.0.aar",
+          "url": "open_filex_release-1.0.aar",
+          "size": 13630,
+          "sha512": "bd4bfbf6648f80096ca994f04ecd0b2d39234d69f995d50a4754d87f7b62d4ef586882a5fc91e05ad6e234a8b5033b22809012822e9d961268477cd99aa742a6",
+          "sha256": "8bc9ec4082f24c4cf424716ff10824d7761e75a3bba36b4d90ca11e64b49b47e",
+          "sha1": "41cf7d2bdb1265b8225a6098d80acae4911e8269",
+          "md5": "6e55385e1d7fc01b177fd8f0682b2e1f"
+        }
+      ]
+    }
+  ]
+}

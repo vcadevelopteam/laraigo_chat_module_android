@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.mr.flutter.plugin.filepicker",
+    "module": "file_picker_profile",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "profileVariantProfileApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "file_picker_profile-1.0.aar",
+          "url": "file_picker_profile-1.0.aar",
+          "size": 27410,
+          "sha512": "eccb068a0d55604908383baff99ec5e3cab3dea436b2a6d812b2ccd5c19dfc49846ead760a3655b75558213d4e713b5caab020ae4e88aee763c84c1e94611f88",
+          "sha256": "8ed2457d4066210d49fef94727781df5fd848104e7e228c29103a97072b979c5",
+          "sha1": "8900b09cf3df347ef678e6466deeaba88ba17d5f",
+          "md5": "9056de4d7f637e9ae29b91b2d85b7fbc"
+        }
+      ]
+    },
+    {
+      "name": "profileVariantProfileRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "file_picker_profile-1.0.aar",
+          "url": "file_picker_profile-1.0.aar",
+          "size": 27410,
+          "sha512": "eccb068a0d55604908383baff99ec5e3cab3dea436b2a6d812b2ccd5c19dfc49846ead760a3655b75558213d4e713b5caab020ae4e88aee763c84c1e94611f88",
+          "sha256": "8ed2457d4066210d49fef94727781df5fd848104e7e228c29103a97072b979c5",
+          "sha1": "8900b09cf3df347ef678e6466deeaba88ba17d5f",
+          "md5": "9056de4d7f637e9ae29b91b2d85b7fbc"
+        }
+      ]
+    }
+  ]
+}

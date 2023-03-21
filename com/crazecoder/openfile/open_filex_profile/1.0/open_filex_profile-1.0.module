@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.crazecoder.openfile",
+    "module": "open_filex_profile",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "profileVariantProfileApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "open_filex_profile-1.0.aar",
+          "url": "open_filex_profile-1.0.aar",
+          "size": 13632,
+          "sha512": "f64753bc79f68e8d695bbc13892f9c6990e0256c1c0a4cd586d64aaef74aff6ac391b9eb29905860c2718e7781ab294b8e5e53be07a2e9e02297d1a8f6079cbc",
+          "sha256": "042f950b9aa5499eccf34a80e7161305b19954e0d65afeb16cd94ba57ff44fdb",
+          "sha1": "cef6c9c2056e50b8a51008e2f8b39960e97a11f3",
+          "md5": "f8767722a659eb711b3f29a5cb6cb082"
+        }
+      ]
+    },
+    {
+      "name": "profileVariantProfileRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "open_filex_profile-1.0.aar",
+          "url": "open_filex_profile-1.0.aar",
+          "size": 13632,
+          "sha512": "f64753bc79f68e8d695bbc13892f9c6990e0256c1c0a4cd586d64aaef74aff6ac391b9eb29905860c2718e7781ab294b8e5e53be07a2e9e02297d1a8f6079cbc",
+          "sha256": "042f950b9aa5499eccf34a80e7161305b19954e0d65afeb16cd94ba57ff44fdb",
+          "sha1": "cef6c9c2056e50b8a51008e2f8b39960e97a11f3",
+          "md5": "f8767722a659eb711b3f29a5cb6cb082"
+        }
+      ]
+    }
+  ]
+}
