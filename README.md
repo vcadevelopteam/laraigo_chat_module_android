@@ -5,6 +5,7 @@ A laraigo chat module for android native development
 ## Installation
 
 First download the repository from the github repository. After the download you will have four folders and a Kotlin file, extract it wherever you want.
+
 ![folder with the repository downloaded](https://media.discordapp.net/attachments/593247279196930049/1087745810181136404/image.png)
 
 Secondly, you will go to the root of your android project. In this case I will use an empty project. Go to your **gradle.settings** and add this dependencies into **dependencyResolutionManagement**
