@@ -56,7 +56,9 @@ binding!!.btnChatButton.setOnClickListener {
  LaraigoChatSocket().initChatSocket("YOUR INTEGRATION ID",this)
 }
 ```
+and
 
+![ff](https://media.discordapp.net/attachments/593247279196930049/1087752300124196954/image.png)
 ## Contributing
 
 Creditos: [Lino Mac Kay](https://github.com/LinoMacKay) y [Jean Aguirre](https://github.com/jeanmarko2703)
