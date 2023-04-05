@@ -1,4 +1,4 @@
-# Laraigo Chat Module
+# Laraigo Chat Module Android
 
 A laraigo chat module for android native development
 
