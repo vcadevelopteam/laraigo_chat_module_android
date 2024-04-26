@@ -15,31 +15,31 @@
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>flutter_embedding_debug</artifactId>
-      <version>1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d</version>
+      <version>1.0.0-e76c956498841e1ab458577d3892003e553e4f3c</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>armeabi_v7a_debug</artifactId>
-      <version>1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d</version>
+      <version>1.0.0-e76c956498841e1ab458577d3892003e553e4f3c</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>arm64_v8a_debug</artifactId>
-      <version>1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d</version>
+      <version>1.0.0-e76c956498841e1ab458577d3892003e553e4f3c</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>x86_64_debug</artifactId>
-      <version>1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d</version>
+      <version>1.0.0-e76c956498841e1ab458577d3892003e553e4f3c</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>x86_debug</artifactId>
-      <version>1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d</version>
+      <version>1.0.0-e76c956498841e1ab458577d3892003e553e4f3c</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -93,6 +93,12 @@
     <dependency>
       <groupId>com.advoques.document_file_save_plus</groupId>
       <artifactId>document_file_save_plus_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.flutter.plugins.googlemaps</groupId>
+      <artifactId>google_maps_flutter_android_debug</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

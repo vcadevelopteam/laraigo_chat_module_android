@@ -27,28 +27,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
@@ -115,6 +115,13 @@
           }
         },
         {
+          "group": "io.flutter.plugins.googlemaps",
+          "module": "google_maps_flutter_android_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "io.flutter.plugins.videoplayer",
           "module": "video_player_android_profile",
           "version": {
@@ -126,11 +133,11 @@
         {
           "name": "flutter_profile-1.0.aar",
           "url": "flutter_profile-1.0.aar",
-          "size": 10423531,
-          "sha512": "1779d0d1975a64b9ce988533eb51cbdbd6eb2c783301a1d874cc6ba416d1819a2f4ae0e8baf480731f343836171ae19b96860954181fbbb703368d16e7371dd7",
-          "sha256": "388565a87c57f5d13bfbfa55194fc4810145dfce77931494e0dd17946ab7bd64",
-          "sha1": "132b840012a72792af349e31f58e9577520626a2",
-          "md5": "c541c9b817fc41259cd87d23a96df1e0"
+          "size": 10135544,
+          "sha512": "92f57a0aa10960973be6d8b3e8d32e37e56dd8e3226bf4acb17c348f51fec434bfbcef8bb5d77d7048e80d6b269a68a03ff9340241197131b6c1e301efed4a10",
+          "sha256": "48c9f608821c9f48c0191adf22bef4ac95abaf60442ec27a7abaa424899ed05d",
+          "sha1": "f2092b9faa71bf039b83d6fb244f2318e24d866f",
+          "md5": "59d45606dcf083a104efdce2517f43b4"
         }
       ]
     },
@@ -147,28 +154,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
@@ -235,6 +242,13 @@
           }
         },
         {
+          "group": "io.flutter.plugins.googlemaps",
+          "module": "google_maps_flutter_android_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "io.flutter.plugins.videoplayer",
           "module": "video_player_android_profile",
           "version": {
@@ -246,11 +260,11 @@
         {
           "name": "flutter_profile-1.0.aar",
           "url": "flutter_profile-1.0.aar",
-          "size": 10423531,
-          "sha512": "1779d0d1975a64b9ce988533eb51cbdbd6eb2c783301a1d874cc6ba416d1819a2f4ae0e8baf480731f343836171ae19b96860954181fbbb703368d16e7371dd7",
-          "sha256": "388565a87c57f5d13bfbfa55194fc4810145dfce77931494e0dd17946ab7bd64",
-          "sha1": "132b840012a72792af349e31f58e9577520626a2",
-          "md5": "c541c9b817fc41259cd87d23a96df1e0"
+          "size": 10135544,
+          "sha512": "92f57a0aa10960973be6d8b3e8d32e37e56dd8e3226bf4acb17c348f51fec434bfbcef8bb5d77d7048e80d6b269a68a03ff9340241197131b6c1e301efed4a10",
+          "sha256": "48c9f608821c9f48c0191adf22bef4ac95abaf60442ec27a7abaa424899ed05d",
+          "sha1": "f2092b9faa71bf039b83d6fb244f2318e24d866f",
+          "md5": "59d45606dcf083a104efdce2517f43b4"
         }
       ]
     }

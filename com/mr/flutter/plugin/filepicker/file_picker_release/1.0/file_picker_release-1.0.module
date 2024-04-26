@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "file_picker_release-1.0.aar",
           "url": "file_picker_release-1.0.aar",
-          "size": 27513,
-          "sha512": "e07cb6d7ce8bd0ab1ece08f28eead3279d973562280ccfcaf8c37c057ebfb968845215a9ec6e27e83ef47242be709b373ddbeee499ce290659776604371804d7",
-          "sha256": "659dec4e9bdcdc0539527bd6117cd8827a041f9697f3b6345420f987ee6ffb1e",
-          "sha1": "b6873cc51d137189a650b4a55e19f0d227eab0ab",
-          "md5": "c593145a6cb99fa8249eaf303a450c9d"
+          "size": 27842,
+          "sha512": "878f1d2c2b57693852014ce6cda56b21209bcf0eda739319fb14aa32da859b22dde236807c2a68b87f379a764aabe863933b55cc5192f449fc71e8b06977107d",
+          "sha256": "3754e8b4a6223410fce94d2ced4788361964dd20ecfefd95eb332a30a00dbf8f",
+          "sha1": "c5204222ffaa6ba99766df9b9ece591701799867",
+          "md5": "8f089a83a6e5591fbc9592167ca3387c"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "file_picker_release-1.0.aar",
           "url": "file_picker_release-1.0.aar",
-          "size": 27513,
-          "sha512": "e07cb6d7ce8bd0ab1ece08f28eead3279d973562280ccfcaf8c37c057ebfb968845215a9ec6e27e83ef47242be709b373ddbeee499ce290659776604371804d7",
-          "sha256": "659dec4e9bdcdc0539527bd6117cd8827a041f9697f3b6345420f987ee6ffb1e",
-          "sha1": "b6873cc51d137189a650b4a55e19f0d227eab0ab",
-          "md5": "c593145a6cb99fa8249eaf303a450c9d"
+          "size": 27842,
+          "sha512": "878f1d2c2b57693852014ce6cda56b21209bcf0eda739319fb14aa32da859b22dde236807c2a68b87f379a764aabe863933b55cc5192f449fc71e8b06977107d",
+          "sha256": "3754e8b4a6223410fce94d2ced4788361964dd20ecfefd95eb332a30a00dbf8f",
+          "sha1": "c5204222ffaa6ba99766df9b9ece591701799867",
+          "md5": "8f089a83a6e5591fbc9592167ca3387c"
         }
       ]
     }

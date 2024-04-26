@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "file_picker_profile-1.0.aar",
           "url": "file_picker_profile-1.0.aar",
-          "size": 27513,
-          "sha512": "d5e87449212fb70e0cab224e9cc72d6baee2152a22501434163816897b9fa9bf3d41d525b44829f9e9b96e05465f43ad212499f0da02b98225efd9d1a92a2a43",
-          "sha256": "10ef53cb8c71f396d573e6b22e7689ec2689430fed616c9f563d4c74b1a5de9c",
-          "sha1": "eaeae2d667fbc7b3f563d9ec5f898b55c90ed4d9",
-          "md5": "f469f057d88f035e62aeb5fbbbf36277"
+          "size": 27840,
+          "sha512": "f9d7a9e7d65d5cdc841fdc70b29b037f68c9043898cf449f922553a738192eba93d221b2274a650df72c21647bdd2392a8e4f4b86dc785fc7a1eecba60762997",
+          "sha256": "2a447fecabd1ed0aa8e9b19d0afeab66895935622725f51e4b71e8f1d012740b",
+          "sha1": "bcd51fc78d0ab232277a044415a4fe37711988b9",
+          "md5": "f4dc596304628c03c7768ba39b094fbc"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_profile",
           "version": {
-            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "file_picker_profile-1.0.aar",
           "url": "file_picker_profile-1.0.aar",
-          "size": 27513,
-          "sha512": "d5e87449212fb70e0cab224e9cc72d6baee2152a22501434163816897b9fa9bf3d41d525b44829f9e9b96e05465f43ad212499f0da02b98225efd9d1a92a2a43",
-          "sha256": "10ef53cb8c71f396d573e6b22e7689ec2689430fed616c9f563d4c74b1a5de9c",
-          "sha1": "eaeae2d667fbc7b3f563d9ec5f898b55c90ed4d9",
-          "md5": "f469f057d88f035e62aeb5fbbbf36277"
+          "size": 27840,
+          "sha512": "f9d7a9e7d65d5cdc841fdc70b29b037f68c9043898cf449f922553a738192eba93d221b2274a650df72c21647bdd2392a8e4f4b86dc785fc7a1eecba60762997",
+          "sha256": "2a447fecabd1ed0aa8e9b19d0afeab66895935622725f51e4b71e8f1d012740b",
+          "sha1": "bcd51fc78d0ab232277a044415a4fe37711988b9",
+          "md5": "f4dc596304628c03c7768ba39b094fbc"
         }
       ]
     }

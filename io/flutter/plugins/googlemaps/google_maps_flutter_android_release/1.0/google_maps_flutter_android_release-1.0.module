@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.googlemaps",
+    "module": "google_maps_flutter_android_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_maps_flutter_android_release-1.0.aar",
+          "url": "google_maps_flutter_android_release-1.0.aar",
+          "size": 65621,
+          "sha512": "61b39ecd04bd41945ea825547b090b580fbc9f896277bb729d0320d2de27ae8270a206caebb89ec1a7af80a72e3aaa3f0681aa0c10417833cf1bd20b2171ca07",
+          "sha256": "79bbbfc56ac38541bac81070d40d6d955b17da958abe72229a4ea1286e2270f4",
+          "sha1": "89f22411efd2262f3af1ca9c8a97d8368e8eee05",
+          "md5": "7a21a36003f65e38c6fd69e16725c997"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-e76c956498841e1ab458577d3892003e553e4f3c"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-maps",
+          "version": {
+            "requires": "18.1.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "google_maps_flutter_android_release-1.0.aar",
+          "url": "google_maps_flutter_android_release-1.0.aar",
+          "size": 65621,
+          "sha512": "61b39ecd04bd41945ea825547b090b580fbc9f896277bb729d0320d2de27ae8270a206caebb89ec1a7af80a72e3aaa3f0681aa0c10417833cf1bd20b2171ca07",
+          "sha256": "79bbbfc56ac38541bac81070d40d6d955b17da958abe72229a4ea1286e2270f4",
+          "sha1": "89f22411efd2262f3af1ca9c8a97d8368e8eee05",
+          "md5": "7a21a36003f65e38c6fd69e16725c997"
+        }
+      ]
+    }
+  ]
+}
