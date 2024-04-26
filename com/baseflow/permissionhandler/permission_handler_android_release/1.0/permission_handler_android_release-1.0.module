@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "permission_handler_android_release-1.0.aar",
           "url": "permission_handler_android_release-1.0.aar",
-          "size": 25037,
-          "sha512": "7003266130366d312d467b54e80575f9ea0958833f69ad566abc54fa7ba9f88014689493e181076277e26d19e7ba06afd3caeb851cfb6d34c10394c99d9b688e",
-          "sha256": "d72f3c5ade367ed4e5e6bda6db5a089541c384bd72cf7f10c6ee040e451af282",
-          "sha1": "f3b685ed111612bd18e192be3051b7daadb70e5a",
-          "md5": "ee2be51fa69b584418c4aa5b84972bea"
+          "size": 25092,
+          "sha512": "05a82b0d6750fbdbed71258896d7b589a9b71ed93d0e2f85893897d337b01e1d02426de680263e9cb969548d5ff03d16ca7f715f48d1f00684fbc93528c78c49",
+          "sha256": "91a17e2661fb38aaccb3bbe62883765d0b41ed64870cb3f45cadd359276fbe35",
+          "sha1": "5751700855ce5f6796c9ccc32820f9a05ff4b86d",
+          "md5": "81be4507bb06adf312144ef62feaa897"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-b24591ed328a2d4ce6505819e2f5898a78132f7f"
+            "requires": "1.0.0-cdbeda788a293fa29665dc3fa3d6e63bd221cb0d"
           }
         }
       ],
@@ -64,11 +64,11 @@
         {
           "name": "permission_handler_android_release-1.0.aar",
           "url": "permission_handler_android_release-1.0.aar",
-          "size": 25037,
-          "sha512": "7003266130366d312d467b54e80575f9ea0958833f69ad566abc54fa7ba9f88014689493e181076277e26d19e7ba06afd3caeb851cfb6d34c10394c99d9b688e",
-          "sha256": "d72f3c5ade367ed4e5e6bda6db5a089541c384bd72cf7f10c6ee040e451af282",
-          "sha1": "f3b685ed111612bd18e192be3051b7daadb70e5a",
-          "md5": "ee2be51fa69b584418c4aa5b84972bea"
+          "size": 25092,
+          "sha512": "05a82b0d6750fbdbed71258896d7b589a9b71ed93d0e2f85893897d337b01e1d02426de680263e9cb969548d5ff03d16ca7f715f48d1f00684fbc93528c78c49",
+          "sha256": "91a17e2661fb38aaccb3bbe62883765d0b41ed64870cb3f45cadd359276fbe35",
+          "sha1": "5751700855ce5f6796c9ccc32820f9a05ff4b86d",
+          "md5": "81be4507bb06adf312144ef62feaa897"
         }
       ]
     }
