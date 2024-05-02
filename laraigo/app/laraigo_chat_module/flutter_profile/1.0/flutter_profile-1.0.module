@@ -52,27 +52,6 @@
           }
         },
         {
-          "group": "io.flutter.plugins.sharedpreferences",
-          "module": "shared_preferences_android_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.crazecoder.openfile",
-          "module": "open_filex_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.baseflow.permissionhandler",
-          "module": "permission_handler_android_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.baseflow.geolocator",
           "module": "geolocator_android_profile",
           "version": {
@@ -87,15 +66,15 @@
           }
         },
         {
-          "group": "com.mr.flutter.plugin.filepicker",
-          "module": "file_picker_profile",
+          "group": "io.flutter.plugins.urllauncher",
+          "module": "url_launcher_android_profile",
           "version": {
             "requires": "1.0"
           }
         },
         {
-          "group": "dev.fluttercommunity.plus.device_info",
-          "module": "device_info_plus_profile",
+          "group": "com.mr.flutter.plugin.filepicker",
+          "module": "file_picker_profile",
           "version": {
             "requires": "1.0"
           }
@@ -122,6 +101,34 @@
           }
         },
         {
+          "group": "io.flutter.plugins.sharedpreferences",
+          "module": "shared_preferences_android_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.crazecoder.openfile",
+          "module": "open_filex_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.baseflow.permissionhandler",
+          "module": "permission_handler_android_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "io.flutter.plugins.videoplayer",
           "module": "video_player_android_profile",
           "version": {
@@ -133,11 +140,11 @@
         {
           "name": "flutter_profile-1.0.aar",
           "url": "flutter_profile-1.0.aar",
-          "size": 10135544,
-          "sha512": "92f57a0aa10960973be6d8b3e8d32e37e56dd8e3226bf4acb17c348f51fec434bfbcef8bb5d77d7048e80d6b269a68a03ff9340241197131b6c1e301efed4a10",
-          "sha256": "48c9f608821c9f48c0191adf22bef4ac95abaf60442ec27a7abaa424899ed05d",
-          "sha1": "f2092b9faa71bf039b83d6fb244f2318e24d866f",
-          "md5": "59d45606dcf083a104efdce2517f43b4"
+          "size": 10151243,
+          "sha512": "300f179c4a431d6bfa421de30e376658e1374fe781feb9af79d28476d4156a763c4c059f59471624373711fd5373b6a112d9045cf80257ffb31b4d430a0f43af",
+          "sha256": "cf14bf751abf1bef7bab5f03252a96baed23d654fe7a3457ee67f7addb9c4a7e",
+          "sha1": "86c92e5920c1494e671cffe429b4a1f28d02b29a",
+          "md5": "4aeed744db24c08389ef880b0de2517e"
         }
       ]
     },
@@ -179,27 +186,6 @@
           }
         },
         {
-          "group": "io.flutter.plugins.sharedpreferences",
-          "module": "shared_preferences_android_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.crazecoder.openfile",
-          "module": "open_filex_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.baseflow.permissionhandler",
-          "module": "permission_handler_android_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.baseflow.geolocator",
           "module": "geolocator_android_profile",
           "version": {
@@ -214,15 +200,15 @@
           }
         },
         {
-          "group": "com.mr.flutter.plugin.filepicker",
-          "module": "file_picker_profile",
+          "group": "io.flutter.plugins.urllauncher",
+          "module": "url_launcher_android_profile",
           "version": {
             "requires": "1.0"
           }
         },
         {
-          "group": "dev.fluttercommunity.plus.device_info",
-          "module": "device_info_plus_profile",
+          "group": "com.mr.flutter.plugin.filepicker",
+          "module": "file_picker_profile",
           "version": {
             "requires": "1.0"
           }
@@ -249,6 +235,34 @@
           }
         },
         {
+          "group": "io.flutter.plugins.sharedpreferences",
+          "module": "shared_preferences_android_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.crazecoder.openfile",
+          "module": "open_filex_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.baseflow.permissionhandler",
+          "module": "permission_handler_android_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.device_info",
+          "module": "device_info_plus_profile",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
           "group": "io.flutter.plugins.videoplayer",
           "module": "video_player_android_profile",
           "version": {
@@ -260,11 +274,11 @@
         {
           "name": "flutter_profile-1.0.aar",
           "url": "flutter_profile-1.0.aar",
-          "size": 10135544,
-          "sha512": "92f57a0aa10960973be6d8b3e8d32e37e56dd8e3226bf4acb17c348f51fec434bfbcef8bb5d77d7048e80d6b269a68a03ff9340241197131b6c1e301efed4a10",
-          "sha256": "48c9f608821c9f48c0191adf22bef4ac95abaf60442ec27a7abaa424899ed05d",
-          "sha1": "f2092b9faa71bf039b83d6fb244f2318e24d866f",
-          "md5": "59d45606dcf083a104efdce2517f43b4"
+          "size": 10151243,
+          "sha512": "300f179c4a431d6bfa421de30e376658e1374fe781feb9af79d28476d4156a763c4c059f59471624373711fd5373b6a112d9045cf80257ffb31b4d430a0f43af",
+          "sha256": "cf14bf751abf1bef7bab5f03252a96baed23d654fe7a3457ee67f7addb9c4a7e",
+          "sha1": "86c92e5920c1494e671cffe429b4a1f28d02b29a",
+          "md5": "4aeed744db24c08389ef880b0de2517e"
         }
       ]
     }
