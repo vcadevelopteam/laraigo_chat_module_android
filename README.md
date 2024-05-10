@@ -9,6 +9,7 @@ First download the repository from the github repository. After the download you
 ![folder with the repository downloaded](https://media.discordapp.net/attachments/593247279196930049/1087745810181136404/image.png)
 
 Secondly, you will go to the root of your android project. In this case I will use an empty project. Go to your **gradle.settings** and add this dependencies into **dependencyResolutionManagement**
+
 ```gradle
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
@@ -23,6 +24,7 @@ dependencyResolutionManagement {
     }
 }
 ```
+
 After that, save the Kotlin file wherever you want inside your app. You will get some reference errors, no problem just add the dependencies to your app **build.gradle**
 
 ```python
@@ -33,7 +35,9 @@ dependencies {
 }
 
 ```
+
 ## Usage
+
 If you want to use the laraigo chat you will need to add the activity to you **AndroidManifest.xml.**.
 
 ```xml
@@ -44,22 +48,25 @@ If you want to use the laraigo chat you will need to add the activity to you **A
             android:windowSoftInputMode="adjustResize"
             />
 ```
+
 and use this line of code to initialize the chat wherever and whenever you want.
 
-
 ```kotlin
-LaraigoChatSocket().initChatSocket("YOUR INTEGRATION ID",this)
+LaraigoChatSocket().initChatSocket("YOUR INTEGRATION ID","YOUR CUSTOM MESSAGE",this)
 ```
 
 or even initialize it with a button
+
 ```kotlin
 binding!!.btnChatButton.setOnClickListener {
- LaraigoChatSocket().initChatSocket("YOUR INTEGRATION ID",this)
+ LaraigoChatSocket().initChatSocket("YOUR INTEGRATION ID","YOUR CUSTOM MESSAGE",this)
 }
 ```
+
 and
 
 ![ff](https://media.discordapp.net/attachments/593247279196930049/1087752300124196954/image.png)
+
 ## Tutorial Video
 
 [Tutorial Español](https://youtu.be/W0i8T8e90kU) y [English Tutorial](https://youtu.be/7wRxw_cOvB8)

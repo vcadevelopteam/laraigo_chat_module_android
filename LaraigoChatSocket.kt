@@ -19,9 +19,9 @@ class LaraigoChatSocket {
     private val CHANNEL = "laraigo_chat_communication_channel"
 
 
-    fun initChatSocket(integrationId: String,context: Context) {
+    fun initChatSocket(integrationId: String, customMessage: String?, context: Context) {
         setupFlutterEngine(context)
-        setupMethodChannel(integrationId)
+        setupMethodChannel(integrationId, customMessage)
         launchFlutterModule(context)
     }
 
@@ -39,8 +39,8 @@ class LaraigoChatSocket {
 
     }
 
-    private fun setupMethodChannel(integrationId: String) {
-        val mapWithValues = hashMapOf("integrationId" to integrationId)
+    private fun setupMethodChannel(integrationId: String, customMessage: String?) {
+        val mapWithValues = hashMapOf("integrationId" to integrationId, "customMessage" to customMessage ?: "")
 
         MethodChannel(
             flutterEngine.dartExecutor.binaryMessenger,

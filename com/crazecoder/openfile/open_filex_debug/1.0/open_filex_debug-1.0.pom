@@ -19,9 +19,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>androidx.legacy</groupId>
-      <artifactId>legacy-support-v4</artifactId>
-      <version>1.0.0</version>
+      <groupId>androidx.appcompat</groupId>
+      <artifactId>appcompat</artifactId>
+      <version>1.6.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

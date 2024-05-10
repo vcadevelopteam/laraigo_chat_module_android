@@ -35,11 +35,11 @@
         {
           "name": "open_filex_profile-1.0.aar",
           "url": "open_filex_profile-1.0.aar",
-          "size": 13767,
-          "sha512": "ec1caa1148355cd65c956076a60f85f6da65c01990d070a87166356b23130c8be6a8eb5c82116ef32a2d7783cf93ddac4c5568876c1e7c69b76cd36c82b2c701",
-          "sha256": "b88d07be57400ec6ee10b246964f6707c4657fa4435c644719cc97517585f3c6",
-          "sha1": "acb28d86577ea3c8d276af4ad1425ad5a1a58c33",
-          "md5": "7d8985d7d0996cb5f25587b60a9d576a"
+          "size": 23761,
+          "sha512": "1d9f7d9091a9fcf7cdb0319b6928e0e14219bde8372a823aed91f4775507cc2ba8bb3fee7e9c4703e97bf0570ac504f1199be5f15bbc233abda465195dc0367c",
+          "sha256": "a7f3d9e89ec7dd599225582fec29f462a743bbd7f129193e9ed51938a20fc26e",
+          "sha1": "077e0ee783607ebfa2ee562edd8c97cb5d0d9784",
+          "md5": "e36fb760b520e878666e960a44a22360"
         }
       ]
     },
@@ -60,10 +60,10 @@
           }
         },
         {
-          "group": "androidx.legacy",
-          "module": "legacy-support-v4",
+          "group": "androidx.appcompat",
+          "module": "appcompat",
           "version": {
-            "requires": "1.0.0"
+            "requires": "1.6.1"
           }
         }
       ],
@@ -71,11 +71,11 @@
         {
           "name": "open_filex_profile-1.0.aar",
           "url": "open_filex_profile-1.0.aar",
-          "size": 13767,
-          "sha512": "ec1caa1148355cd65c956076a60f85f6da65c01990d070a87166356b23130c8be6a8eb5c82116ef32a2d7783cf93ddac4c5568876c1e7c69b76cd36c82b2c701",
-          "sha256": "b88d07be57400ec6ee10b246964f6707c4657fa4435c644719cc97517585f3c6",
-          "sha1": "acb28d86577ea3c8d276af4ad1425ad5a1a58c33",
-          "md5": "7d8985d7d0996cb5f25587b60a9d576a"
+          "size": 23761,
+          "sha512": "1d9f7d9091a9fcf7cdb0319b6928e0e14219bde8372a823aed91f4775507cc2ba8bb3fee7e9c4703e97bf0570ac504f1199be5f15bbc233abda465195dc0367c",
+          "sha256": "a7f3d9e89ec7dd599225582fec29f462a743bbd7f129193e9ed51938a20fc26e",
+          "sha1": "077e0ee783607ebfa2ee562edd8c97cb5d0d9784",
+          "md5": "e36fb760b520e878666e960a44a22360"
         }
       ]
     }
